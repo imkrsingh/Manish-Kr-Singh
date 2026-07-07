@@ -10,14 +10,14 @@ Passionate about building modern, scalable and user-friendly web applications.
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Full Stack Web Applications**
-- 💼 Open to **Frontend (React.js / Next.js)** and **Full Stack Developer** opportunities
-- 🚀 Building **responsive, scalable and high-performance** web applications
-- 🔗 Experienced in **REST API Development & Integration, Authentication and State Management**
-- 🎨 Skilled in **Performance Optimization, SEO, Responsive UI Design, Role-Based Access Control & Multi-Tenant Architecture**
-- 🌱 Currently learning **Redis, Docker, AI, RAG, LangChain & LangGraph**
-- 💬 Ask me about **React.js, Next.js, TypeScript, Node.js, Express.js, REST APIs, MongoDB & Redis**
-- ⚡ Passionate about solving real-world problems and continuously improving my skills
+- 🔭 I'm currently working on **Full Stack Web Applications.**
+- 💼 Open to **Frontend (React.js / Next.js)** and **Full Stack Developer** opportunities.
+- 🚀 Building **responsive, scalable and high-performance** web applications.
+- 🔗 Experienced in **REST API Development & Integration, Authentication and State Management.**
+- 🎨 Skilled in **Performance Optimization, SEO, Responsive UI Design, Role-Based Access Control & Multi-Tenant Architecture.**
+- 🌱 Currently learning **Redis, Docker, AI, RAG, LangChain & LangGraph.**
+- 💬 Ask me about **React.js, Next.js, TypeScript, Node.js, Express.js, REST APIs, MongoDB & Redis.**
+- ⚡ Passionate about solving real-world problems and continuously improving my skills.
 
 ---
 
